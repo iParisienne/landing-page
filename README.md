@@ -8,4 +8,4 @@ Two minor modifications added:
 
 ## Live-Preview
 
-A live preview can be found [here.](https://iparisienne.github.io/odin-projects/foundations/landing-page/index.html)
+A live preview can be found [here.](https://iparisienne.github.io/landing-page/index.html)
